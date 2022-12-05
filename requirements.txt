@@ -1,6 +1,6 @@
-lobe
-PIL
-pandas
-matplotlib
-streamlit
-torch
+lobe==0.6.2
+pillow==9.0.1
+pandas==1.5.2
+matplotlib==3.5.3
+streamlit==1.15.2
+pytorch==1.13.0
